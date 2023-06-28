@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "r3Cseq"]
 	path = r3Cseq
 	url = https://github.com/supatt-lab/r3cseq
-	shallow = true
-	registered = true
